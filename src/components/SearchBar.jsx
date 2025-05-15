@@ -1,3 +1,4 @@
+
 const SearchBar = ({ city, setCity, handleSearch }) => {
   return (
     <form onSubmit={handleSearch} className="search-bar">
